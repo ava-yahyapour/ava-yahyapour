@@ -1,7 +1,6 @@
 
 # Hi, I'm Ava Yahyapour 
 👋 About Me 
-🎓 PhD Student in Computer Science
 🔬 Research Focus: Machine Learning & Deep Learning 
 💼 Seeking ML Engineering opportunities 
 🛠️ Skills - **Languages:** Python, Java, SQL - **ML/DL:** TensorFlow, PyTorch, scikit-learn - **Tools:** Git, Docker, MLflow, Jupyter
