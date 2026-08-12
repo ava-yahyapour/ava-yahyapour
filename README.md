@@ -1,6 +1,6 @@
 # Hi, I'm Ava Yahyapour
 
-I'm a PhD student in Computer Science at CUNY with 12+ years of software engineering experience.
+I'm a PhD student in Computer Science at CUNY with 10+ years of software engineering experience.
 
 My work sits at the intersection of:
 
